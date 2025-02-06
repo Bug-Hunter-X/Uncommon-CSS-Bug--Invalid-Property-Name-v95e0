@@ -1,0 +1,4 @@
+The following CSS code uses an invalid property name, causing unexpected behavior or rendering issues in some browsers. 
+```css
+.element {invalid-property: value;}
+```
