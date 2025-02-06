@@ -1,0 +1,7 @@
+The solution involves identifying and correcting the invalid property name. In this example, the `invalid-property` is replaced with a valid CSS property, such as `border`.
+
+```css
+.element {border: 1px solid black;}
+```
+
+Always consult the CSS specification or browser developer tools for valid property names.
